@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Sahar Jahani 👋
 
-<!--
-**Jahani-dev/Jahani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CTO @ ITL | Signal Processing, Wearable Tech, and Embedded Systems
 
-Here are some ideas to get you started:
+I'm a technically-driven founder with a passion for building intelligent systems that bridge hardware and data. I specialize in signal processing, real-time analytics, and high-performance code for health tech and biosensors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently leading product development at Coolease, a smart cooling vest designed for precision thermal regulation in extreme environments.
+
+Tech Interests: Signal processing, biosensor integration, embedded systems, FDA-compliant QA/QC, Python, MATLAB..
+
+Mission: Build high-impact, intelligent technologies that improve human performance and health.
+
+Open to collaboration, consulting, and R&D partnerships in wearable tech, biomedical systems, and deep tech ventures.
