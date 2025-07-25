@@ -1,6 +1,6 @@
 ## Hi, I'm Sahar Jahani 👋
 
-CTO @ ITL | Signal Processing & Wearable Tech | Building real-time embedded systems for health and performance.
+Signal Processing & Wearable Tech | Building real-time embedded systems for health and performance.
 
 I'm a technically-driven founder with a passion for building intelligent systems that bridge hardware and data. I specialize in signal processing, real-time analytics, and high-performance code for health tech and biosensors.
 
